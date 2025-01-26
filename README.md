@@ -1,6 +1,6 @@
 # Project Title
 
-Sports Management for Injury Prevention, Performance, and Athlete Management Using Machine Learning:
+Sports Management Portal for Injury Prevention, Performance, and Athlete Management Using Machine Learning:
 presented by Juan Carlos Katigbak 300366535 to Padmapriya Arasanipalai Kandhadai CSIS4495 Applied Research Project Section 002
 
 ## About the Project
