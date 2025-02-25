@@ -15,31 +15,47 @@ c.Build interactive dashboards for visualizing performance trends.
 
 ### Folders Included
 
-ReportsAndDocuments - for all the reports and documentation
-Implementation - for all the code that will be checked in
+ReportsAndDocuments/ - Contains all reports and documentation related to the project.
+Implementation/ - Stores all code implementations, including backend, frontend, and machine learning models.
+Misc/ - References such as Books, Research Journals and Studies, and Websites.
 
 
 ### Installing
 
-Notes: A step by step series of examples that tell me how to get a development env running
+Follow these steps to set up the development environment:
 
-Say what the step will be
+1. Clone the Repository
 
-```
-Give the example
-```
+git clone https://github.com/juancarloskatigbak8/sports-management-portal.git
+cd sports-management-portal
 
-And repeat
+2. Set Up a Virtual Environment (Optional but Recommended)
 
-```
-until finished
-```
+python -m venv env
+source env/bin/activate  # On macOS/Linux
+env\Scripts\activate  # On Windows
 
-End with an example of getting some data out of the system or using it for a little demo
+3. Install Dependencies
+
+pip install -r requirements.txt
+
+4. Set Up the Database
+
+python manage.py migrate
+
+5. Run the Application
+
+python manage.py runserver
+
+6. Access the Portal
+
+Open your browser and go to http://127.0.0.1:8000/
 
 ## Running the tests
 
-Notes: Explain how to run the automated tests for this system
+Run automated tests to validate system functionality:
+
+python manage.py test
 
 ### Break down into end to end tests
 
@@ -63,9 +79,15 @@ Notes: Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-Notes: 
-*  - The web framework used
-*  - Dependency Management
+Django - Web framework for backend development
+
+Bootstrap - Frontend styling
+
+SQLite - Database management
+
+Matplotlib & Seaborn - Data visualization tools
+
+scikit-learn - Machine learning model development
 
 ## Author
 
