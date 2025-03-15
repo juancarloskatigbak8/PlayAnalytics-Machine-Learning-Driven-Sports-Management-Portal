@@ -20,34 +20,41 @@ Implementation/ - Stores all code implementations, including backend, frontend, 
 Misc/ - References such as Books, Research Journals and Studies, and Websites.
 
 
-### Installing
+### Installing (using either macOS/Linux's Terminal or Windows' Command Prompt)
 
-Follow these steps to set up the development environment:
+1. Extraction of W25_4495_S2_JuanCarlosK folder
 
-1. Clone the Repository
-
-git clone https://github.com/juancarloskatigbak8/sports-management-portal.git
-cd sports-management-portal
+Extract W25_4495_S2_JuanCarlosK-main.zip and make sure that the extracted folder will have the files because there is a tendency that the extracted folder will have another folder before you are able to get the files. You also have to make sure when you run the virtual environment, you are able to locate the exact location of the W25_4495_S2_JuanCarlosK folder otherwise it will not run properly.
 
 2. Set Up a Virtual Environment (Optional but Recommended)
 
+For macOS/Linux (Terminal):
 python -m venv env
-source env/bin/activate  # On macOS/Linux
-env\Scripts\activate  # On Windows
+source env/bin/activate
+
+For Windows (Command Prompt):
+python -m venv env
+env\Scripts\activate
 
 3. Install Dependencies
 
-pip install -r requirements.txt
+For macOS/Linux (Terminal)/For Windows (Command Prompt):
+pip install beautifulsoup4 requests pandas numpy lxml transformers torch sentencepiece scipy scikit-learn tqdm ipywidgets scrapy
 
-4. Set Up the Database
+4. Run the Application
 
-python manage.py migrate
+using macOS/Linux's Terminal, run:
 
-5. Run the Application
+cd ~/Desktop/W25_4495_S2_JuanCarlosK/lal_injury_risk
 
 python manage.py runserver
 
-6. Access the Portal
+using Windows' Command Prompt, run:
+
+cd %USERPROFILE%\Desktop\W25_4495_S2_JuanCarlosK/lal_injury_risk
+(e.g. cd OneDrive\Desktop\W25_4495_S2_JuanCarlosK/lal_injury_risk) #since W25_4495_S2_JuanCarlosK is the folder with the file
+
+python manage.py runserver
 
 Open your browser and go to http://127.0.0.1:8000/
 
