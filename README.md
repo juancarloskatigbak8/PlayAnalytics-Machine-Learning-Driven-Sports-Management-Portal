@@ -22,9 +22,9 @@ Misc/ - References such as Books, Research Journals and Studies, and Websites.
 
 ### Installing (using either macOS/Linux's Terminal or Windows' Command Prompt)
 
-1. Extraction of W25_4495_S2_JuanCarlosK folder
+1. Extraction of W25_4495_S2_JuanCarlosK-main folder
 
-Extract W25_4495_S2_JuanCarlosK-main.zip and make sure that the extracted folder will have the files because there is a tendency that the extracted folder will have another folder before you are able to get the files. You also have to make sure when you run the virtual environment, you are able to locate the exact location of the W25_4495_S2_JuanCarlosK folder otherwise it will not run properly.
+Extract W25_4495_S2_JuanCarlosK-main.zip and make sure that the extracted folder will have the files because there is a tendency that the extracted folder will have another folder before you are able to get the files. You also have to make sure when you run the virtual environment, you are able to locate the exact location of the W25_4495_S2_JuanCarlosK-main folder otherwise it will not run properly.
 
 2. Set Up a Virtual Environment (Optional but Recommended)
 
@@ -39,20 +39,21 @@ env\Scripts\activate
 3. Install Dependencies
 
 For macOS/Linux (Terminal)/For Windows (Command Prompt):
-pip install beautifulsoup4 requests pandas numpy lxml transformers torch sentencepiece scipy scikit-learn tqdm ipywidgets scrapy
+pip install django
 
 4. Run the Application
 
+
 using macOS/Linux's Terminal, run:
 
-cd ~/Desktop/W25_4495_S2_JuanCarlosK/lal_injury_risk
+cd lal_injury_risk
 
 python manage.py runserver
 
 using Windows' Command Prompt, run:
 
-cd %USERPROFILE%\Desktop\W25_4495_S2_JuanCarlosK/lal_injury_risk
-(e.g. cd OneDrive\Desktop\W25_4495_S2_JuanCarlosK/lal_injury_risk) #since W25_4495_S2_JuanCarlosK is the folder with the file
+cd %USERPROFILE%\Desktop\W25_4495_S2_JuanCarlosK-main/lal_injury_risk
+(e.g. cd OneDrive\Desktop\W25_4495_S2_JuanCarlosK-main/lal_injury_risk) #since W25_4495_S2_JuanCarlosK-main is the folder with the file
 
 python manage.py runserver
 
