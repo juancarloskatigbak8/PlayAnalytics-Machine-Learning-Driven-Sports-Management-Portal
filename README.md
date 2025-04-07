@@ -1,17 +1,11 @@
 # Project Title
 
-Sports Management Portal for Injury Prevention, Performance, and Athlete Management Using Machine Learning:
+PlayAnalytics, an AI-Driven Sports Management Portal:
 presented by Juan Carlos Katigbak 300366535 to Padmapriya Arasanipalai Kandhadai CSIS4495 Applied Research Project Section 002
 
 ## About the Project
 
-Design
-Develop a web-based portal incorporating ML models for injury prediction, performance analytics, and training customization.
-
-Objectives
-a.Create a database to store athlete profiles and performance metrics. 
-b.Train an ML model to predict injury risks using historical data.
-c.Build interactive dashboards for visualizing performance trends.
+PlayAnalytics is a sports management portal utilizing machine learning to predict injury risks and deliver data-driven insights tailored specifically for basketball athletes. By integrating predictive analytics, PlayAnalytics empowers athletes to proactively minimize injury risks and optimize training effectiveness.
 
 ### Folders Included
 
@@ -22,15 +16,15 @@ Misc/ - References such as Books, Research Journals and Studies, and Websites.
 
 ### Installing (using either macOS/Linux's Terminal or Windows' Command Prompt)
 
-1. Extraction of W25_4495_S2_JuanCarlosK-main folder
+1. Extraction of playanalytics folder from W25_4495_S2_JuanCarlosK-main folder
 
-Extract W25_4495_S2_JuanCarlosK-main.zip and make sure that the extracted folder will have the files because there is a tendency that the extracted folder will have another folder before you are able to get the files. You also have to make sure when you run the virtual environment, you are able to locate the exact location of the W25_4495_S2_JuanCarlosK-main folder otherwise it will not run properly.
+Extract W25_4495_S2_JuanCarlosK-main.zip and make sure that the extracted folder will have the files because there is a tendency that the extracted folder will have another folder before you are able to get the files. You then need to extract the playanalytics folder and put it somewhere where you can start the app, like on the Desktop.
 
-2. Set Up a Virtual Environment (Optional but Recommended)
+
+2. Set Up a Virtual Environment
 
 For macOS/Linux (Terminal):
 python -m venv env
-source env/bin/activate
 
 For Windows (Command Prompt):
 python -m venv env
@@ -39,51 +33,30 @@ env\Scripts\activate
 3. Install Dependencies
 
 For macOS/Linux (Terminal)/For Windows (Command Prompt):
-pip install django
+pip install django-bootstrap5 joblib scikit-learn numpy pandas
 
 4. Run the Application
 
-
 using macOS/Linux's Terminal, run:
 
-cd lal_injury_risk
+cd playanalytics (depending on the location of the folder, suggestion would be cd ~/Desktop then cd playanalytics)
 
 python manage.py runserver
 
 using Windows' Command Prompt, run:
 
-cd %USERPROFILE%\Desktop\W25_4495_S2_JuanCarlosK-main/lal_injury_risk
-(e.g. cd OneDrive\Desktop\W25_4495_S2_JuanCarlosK-main/lal_injury_risk) #since W25_4495_S2_JuanCarlosK-main is the folder with the file
+cd %USERPROFILE%\Desktop\W25_4495_S2_JuanCarlosK-main/playanalytics
+(e.g. cd OneDrive\Desktop\W25_4495_S2_JuanCarlosK-main/playanalytics) #since W25_4495_S2_JuanCarlosK-main is the folder with the file
 
 python manage.py runserver
 
-Open your browser and go to http://127.0.0.1:8000/
+Open your browser and go to http://127.0.0.1:8000/ (or localhost:8000 - which is usually the default)
 
 ## Running the tests
 
 Run automated tests to validate system functionality:
 
 python manage.py test
-
-### Break down into end to end tests
-
-Notes: Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Notes: Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Notes: Add additional notes about how to deploy this on a live system
 
 ## Built With
 
@@ -92,8 +65,6 @@ Django - Web framework for backend development
 Bootstrap - Frontend styling
 
 SQLite - Database management
-
-Matplotlib & Seaborn - Data visualization tools
 
 scikit-learn - Machine learning model development
 
