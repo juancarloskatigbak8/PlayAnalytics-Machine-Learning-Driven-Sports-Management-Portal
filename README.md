@@ -36,7 +36,7 @@ env\Scripts\activate
 3. Install Dependencies
 
 For macOS/Linux (Terminal)/For Windows (Command Prompt):
-pip install django-bootstrap5 joblib scikit-learn numpy pandas pillow 
+pip install django django-bootstrap5 joblib scikit-learn numpy pandas pillow 
 
 Alternatively, install from the requirements file:
 pip install -r requirements.txt
