@@ -18,13 +18,14 @@ Misc/ - References such as Books, Research Journals and Studies, and Websites.
 
 1. Extraction of playanalytics.zip 
 
-Extract playanalytics.zip and make sure that the extracted folder will have the files because there is a tendency that the extracted folder will have another folder before you are able to get the files. You then need to extract the playanalytics folder and put it somewhere where you can start the app, like on the Desktop.
-
+Unzip playanalytics.zip. If there's a nested folder (playanalytics/playanalytics/), ensure the inner folder is moved to a convenient location like your Desktop.
 
 2. Set Up a Virtual Environment
+Recommended: Use Python 3.11+ (Anaconda or system Python)
 
 For macOS/Linux (Terminal):
 python -m venv env
+source env/bin/activate
 
 For Windows (Command Prompt):
 python -m venv env
@@ -34,6 +35,9 @@ env\Scripts\activate
 
 For macOS/Linux (Terminal)/For Windows (Command Prompt):
 pip install django-bootstrap5 joblib scikit-learn numpy pandas pillow 
+
+Alternatively, install from the requirements file:
+pip install -r requirements.txt
 
 4. Run the Application
 
@@ -52,29 +56,44 @@ python manage.py runserver
 
 Open your browser and go to http://127.0.0.1:8000/ (or localhost:8000 - which is usually the default)
 
-## When Using the App
+## How to Use the App
 
-When you first land on the landing page, click Start and you will go to the Dashboard page which still has no data because the app requires that you populate it with player data to see how everything works in relation to predicting injury risk. So click on the Prediction tab in the navigation bar and you will go to the Prediction page which is where you will predict your injury risk by inputting your performance stats and injury history. Once you click Predict, you will be shown 2 bar charts, with the first one being your prediction and the second one having no prediction yet because the app is all about populating it with player data such as yours and other players. Then you have a choice whether to save this to the Profile page or to make a new Prediction. If you click Save to Profile, you will be transported to the Profile page where you can add a profile picture of yourself/players, edit data that was inputted, create notes about performance routines, injuries sustained, ongoing recovery, et cetera. If you click on the Dashboard tab in the navigation, you will see performance indicators and data visualizations in real time. Keep populating the app with data to see how the data visualizations will look like!
+Step 1: Landing Page – Click "Start" to go to the dashboard.
+
+Step 2: Dashboard Page – Initially empty until players are added.
+
+Step 3: Prediction Page – Enter player stats and injury history to get an AI-driven risk prediction. View risk bar charts.
+
+Step 4: Save to Profile – Save prediction to the profile system.
+
+Step 5: Profiles Page – Add player photo, edit stats, write performance notes.
+
+Step 6: Dashboard Page (again) – Visuals and summary indicators update in real-time as more data is added.
+
+Keep adding player data to enrich the dashboard insights and track trends.
 
 ## Built With
 
 Django - Web framework for backend development
 
-Bootstrap - Frontend styling
+Bootstrap 5 - Frontend UI and styling
 
-SQLite - Database management
+SQLite - Lightweight database
 
-scikit-learn - Machine learning model development
+scikit-learn - Injury risk prediction model
+
+Pandas, NumPy - Data processing
+
+Joblib - ML model serialization
+
+Pillow - Image upload handling
 
 ## Author
 
 * **Juan Carlos Katigbak** - *Initial work to Final work* - (https://github.com/juancarloskatigbak8)
 
 ## Acknowledgments
-Notes:
-* Inspiration - Passion of mine to do something in the Sports Industry coupled with my recent interest in the emerging Data Analytics/Science and AI space
-* Reference - main reference which inspired me to do this project is this:
-  
-  Owen, R., Owen, J. A., & Evans, S. (2024). Artificial intelligence for sport injury prediction.
-  In C. Dindorf, E. Bartaguiz, F. Gassmann, & M. Fröhlich (Eds.),
-  Artificial intelligence in sports, movement, and health (pp. [page range if known]). Springer.
+Inspiration: A personal passion for sports + growing interest in AI and data science.
+
+Academic Reference:
+Owen, R., Owen, J. A., & Evans, S. (2024). Artificial intelligence for sport injury prediction. In Dindorf et al. (Eds.), AI in Sports, Movement, and Health. Springer.
