@@ -7,12 +7,14 @@ presented by Juan Carlos Katigbak 300366535 to Padmapriya Arasanipalai Kandhadai
 
 PlayAnalytics is a sports management portal utilizing machine learning to predict injury risks and deliver data-driven insights tailored specifically for basketball athletes. By integrating predictive analytics, PlayAnalytics empowers athletes to proactively minimize injury risks and optimize training effectiveness.
 
-### Folders Included
+### Folders/Files Included
 
-ReportsAndDocuments/ - Contains all reports and documentation related to the project.
-Implementation/ - Stores all code implementations, including backend, frontend, and machine learning models.
-Misc/ - References such as Books, Research Journals and Studies, and Websites.
-
+playanalytics/
+│
+├── ReportsAndDocuments/     # Reports, research papers, documentation
+├── Implementation/          # Django app code + ML model files
+├── Misc/                    # Reference books, journals, articles, websites
+└── playanalytics.zip        # To be used for thesis defense
 
 ### Installing (using either macOS/Linux's Terminal or Windows' Command Prompt)
 
