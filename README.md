@@ -20,7 +20,7 @@ playanalytics/
 
 1. Extraction of playanalytics.zip 
 
-First, click on the green (<> Code) button and click on Download ZIP.  Unzip playanalytics.zip. If there is a nested folder (playanalytics/playanalytics/), ensure the inner folder is moved to a convenient location like your Desktop.
+First, click on the green (<> Code) button and click on Download ZIP to be able to download the whole Repository. Extract and unzip playanalytics.zip. If there is a nested folder (playanalytics/playanalytics/), ensure the inner folder is moved to a convenient location like your Desktop.
 
 2. Set Up a Virtual Environment
 Recommended: Use Python 3.11+ (Anaconda or system Python)
