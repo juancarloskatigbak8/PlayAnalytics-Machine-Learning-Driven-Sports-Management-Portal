@@ -43,13 +43,13 @@ pip install django django-bootstrap5 joblib scikit-learn numpy pandas pillow
 
 using macOS/Linux's Terminal, run:
 
-cd playanalytics (depending on the location of the folder, suggestion would be cd ~/Desktop then cd playanalytics)
+cd playanalytics (depending on the location of the folder, suggestion would be to put it on the Desktop, then on the terminal cd ~/Desktop then cd playanalytics)
 
 python manage.py runserver
 
 using Windows' Command Prompt, run:
 
-cd %USERPROFILE%\Desktop\playanalytics
+cd %USERPROFILE%\Desktop\playanalytics (depending on the location of the folder, suggestion would be to put it on the Desktop, then on the command prompt cd ~/Desktop then cd playanalytics)
 (e.g. cd OneDrive\Desktop\playanalytics)
 
 python manage.py runserver
