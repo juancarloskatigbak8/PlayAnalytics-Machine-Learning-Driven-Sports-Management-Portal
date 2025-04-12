@@ -20,7 +20,7 @@ playanalytics/
 
 1. Extraction of playanalytics.zip 
 
-Unzip playanalytics.zip. If there's a nested folder (playanalytics/playanalytics/), ensure the inner folder is moved to a convenient location like your Desktop.
+First, click on the green (<> Code) button and click on Download ZIP.  Unzip playanalytics.zip. If there is a nested folder (playanalytics/playanalytics/), ensure the inner folder is moved to a convenient location like your Desktop.
 
 2. Set Up a Virtual Environment
 Recommended: Use Python 3.11+ (Anaconda or system Python)
@@ -72,7 +72,7 @@ Step 6: Dashboard Page (again) – Visuals and summary indicators update in real
 
 Keep adding player data to enrich the dashboard insights and track trends.
 
-## Built With
+## Technology Stack
 
 Django - Web framework for backend development
 
