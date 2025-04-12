@@ -80,6 +80,8 @@ Bootstrap 5, Chart.js - Frontend UI, styling, and rendering interactive charts d
 
 SQLite - Lightweight database
 
+Django Auth - Django built-in user registration, login, and logout system.
+
 scikit-learn - Injury risk prediction model
 
 Pandas, NumPy - Data processing
