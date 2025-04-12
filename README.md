@@ -76,7 +76,7 @@ Keep adding player data to enrich the dashboard insights and track trends.
 
 Django - Web framework for backend development
 
-Bootstrap 5 - Frontend UI and styling
+Bootstrap 5, Chart.js - Frontend UI, styling, and rendering interactive charts dynamically
 
 SQLite - Lightweight database
 
