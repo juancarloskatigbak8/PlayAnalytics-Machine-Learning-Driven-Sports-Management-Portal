@@ -95,7 +95,7 @@ Pillow - Image upload handling
 
 2. Technology Sources Used to be able to make the App
 
-ChatGPT Plus (AI tool) - Assisted in every step of the app’s creation: algorithm benchmarking, prediction, creating the kanban board, coding (with comments), debugging, report creation (including ReadMe file), survey creation, and data analysis.
+ChatGPT Plus (AI tool) - Assisted in every step of the app’s creation: ideas generation, algorithm benchmarking, prediction, creating the kanban board, coding (with comments), debugging, report creation (including ReadMe file), survey creation, and data analysis.
 
 Canva Pro (digital branding) - Used to design professional-looking progress reports, the PlayAnalytics logo, and the final presentation deck
 
