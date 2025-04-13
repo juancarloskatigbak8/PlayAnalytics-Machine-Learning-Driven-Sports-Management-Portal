@@ -74,6 +74,8 @@ Keep adding player data to enrich the dashboard insights and track trends.
 
 ## Technology Stack
 
+1. Technology Used in the App
+
 Django - Web framework for backend development
 
 Bootstrap 5, Chart.js - Frontend UI, styling, and rendering interactive charts dynamically
@@ -89,6 +91,27 @@ Pandas, NumPy - Data processing
 Joblib - ML model serialization
 
 Pillow - Image upload handling
+
+
+2. Technology Sources Used to be able to make the App
+
+ChatGPT Plus (AI tool) - Assisted in every step of the app’s creation from coding, debugging, report writing, survey design, to predictive model benchmarking
+
+Canva Pro (digital branding) - Used to design professional-looking progress reports, the PlayAnalytics logo, and the final presentation deck
+
+Amazon Prime (e-commerce) – Enabled access to key physical resources like Python Crash Course (3rd ed.) that supported app functionality and planning
+
+Fantasy Math (sports data science tool) – Served as a source of inspiration for basketball data visualizations and predictive analysis logic, especially during the prototyping and midterm phase
+
+DataCamp (e-learning) – Provided structured online courses for learning foundational data analytics and machine learning concepts
+
+Udemy (e-learning) – Supplemented DataCamp by offering additional practical tutorials and project-based learning for data science
+
+GitHub (online repository for IT portfolios) – Used as the centralized version-controlled repository for the PlayAnalytics app source code and documentation submission.
+
+YouTube (video sharing platform) - for teaching me how to integrate Machine Learning data visualization with Django especially from the channel KenBroTech.
+
+Office 365 (productivity suite) – Microsoft Planner was used for kanban-style project tracking; Microsoft Excel for cleaning/preparing CSV datasets and daily work logs; Microsoft Outlook for advisor communication and milestone updates; Microsoft Forms for creating/distributing user feedback survey to gather insights about the app.
 
 ## Author
 
