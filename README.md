@@ -49,7 +49,7 @@ python manage.py runserver
 
 using Windows' Command Prompt, run:
 
-cd %USERPROFILE%\Desktop\playanalytics (depending on the location of the folder, suggestion would be to put it on the Desktop, then on the command prompt cd ~/Desktop then cd playanalytics)
+cd %USERPROFILE%\Desktop\playanalytics
 (e.g. cd OneDrive\Desktop\playanalytics)
 
 python manage.py runserver
