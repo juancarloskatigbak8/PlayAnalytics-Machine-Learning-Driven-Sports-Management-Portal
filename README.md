@@ -58,19 +58,21 @@ Open your browser and go to http://127.0.0.1:8000/ (or localhost:8000 - which is
 
 ## How to Use the App
 
-Step 1: Landing Page – Click "Start" to go to the dashboard.
+Step 1: Landing Page – Click "Start" to go to the User Registration and Login.
 
-Step 2: Dashboard Page – Initially empty until players are added.
+Step 2: User Registration and Login - If first time user, click "Register here" and input Username and Password (two times) and click "Register". If already registered, simply input Username and Password and click "Login". This brings user to the Dashboard page.
 
-Step 3: Prediction Page – Enter player stats and injury history to get an AI-driven risk prediction. View risk bar charts.
+Step 3: Dashboard Page – Initially empty until players are added so click on "Prediction" in the navigation bar to go to the Prediction page.
 
-Step 4: Save to Profile – Save prediction to the profile system.
+Step 4: Prediction Page – Enter player stats and injury history to get an AI-driven risk prediction by clicking "Predict". View risk bar charts. To refresh prediction, click "New Prediction". If satisfied, click on "Save to Profile".
 
-Step 5: Profiles Page – Add player photo, edit stats, write performance notes.
+Step 5: Profiles Page (Profile Picture, Performance Statistics, and Injury History portion) – User will see the first player added in the Profiles page if "Save to Profile" had been clicked on from the Prediction page. Click on the name of the player. Once in the Profile page of the player, click "Edit Player" if user wishes to add a profile photo (which the user will see by clicking on "Choose File" and selecting a photo wherever it is located in the user's computer), and/or edit stats (note: editing performance stats does not change the predicted risk label per se but the user can change the label as long as it is inputted as either "Low", "Low-Medium", "Medium", "Medium-High", or "High" which will affect the charts in the Dashboard page that the user will be able to see. If user does not input it in those predicted risk labels, the charts in the Dashboard page will not show) If satisfied with changes, click "Save Changes", otherwise, click "Cancel". If user wants to delete the profile of the player, simply click "Delete Player".
 
-Step 6: Dashboard Page (again) – Visuals and summary indicators update in real-time as more data is added.
+Step 6: Profiles Page (Notes portion) – User can also add notes in the Notes field. Simply write any note (like performance from a previous game, injury that took place, rehabilitation progress since injury, training regimen, food diary, journal log, thoughts at the moment, et cetera) and click on "Add Note". Entry of note will show below with date and time when note was created. To edit note if user wishes to add anything to the entry, click "Edit" and edit anything in the note field. Once satisfied, click "Save Changes" otherwise, click "Cancel". If user wants to delete the entry of note, click "Delete".
 
-Keep adding player data to enrich the dashboard insights and track trends.
+Step 7: Dashboard Page (again) – Visuals and summary indicators update in real-time as more data is added.
+
+Note: Keep adding player data to enrich the dashboard insights and track trends.
 
 ## Technology Stack
 
@@ -149,19 +151,21 @@ II. Books
 4. Gillett, J. & Burgos, B. (2020). Strength Training for Basketball: National Strength and Conditioning Association. Human Kinetics.
 
 III. Websites
-1. Braun, N. (2025). Fantasy Math: Fantasy sports predictions and analytics. Fantasy Math. https://fantasymath.com/
+1. National Basketball Association. (n.d.). NBA official website. https://www.nba.com
 
-2. Broni, K. (2020). KenBroTech. YouTube. https://www.youtube.com/@KenBroTech
+2. Braun, N. (2025). Fantasy Math: Fantasy sports predictions and analytics. Fantasy Math. https://fantasymath.com/
 
-3. Gilermo, D. (n.d.). NBA players stats [Dataset]. Kaggle. https://www.kaggle.com/datasets/drgilermo/nba-players-stats/data 
+3. Broni, K. (2020). KenBroTech. YouTube. https://www.youtube.com/@KenBroTech
 
-4. Lauton, L. (n.d.). NBA injury stats (1951-2023) [Dataset]. Kaggle. https://www.kaggle.com/datasets/loganlauton/nba-injury-stats-1951-2023
+4. Gilermo, D. (n.d.). NBA players stats [Dataset]. Kaggle. https://www.kaggle.com/datasets/drgilermo/nba-players-stats/data 
 
-5. Lounias, T. (n.d.). NBA stat scrape and analysis [Kaggle Notebook]. Kaggle. https://www.kaggle.com/code/themelissoulounias/nba-stat-scrape-and-analysis
+5. Lauton, L. (n.d.). NBA injury stats (1951-2023) [Dataset]. Kaggle. https://www.kaggle.com/datasets/loganlauton/nba-injury-stats-1951-2023
 
-6. Chiodi, A. (n.d.). NBA injury forecasting [Code notebook]. Kaggle. https://www.kaggle.com/code/anthonychiodi/nba-injury-forecasting
+6. Lounias, T. (n.d.). NBA stat scrape and analysis [Kaggle Notebook]. Kaggle. https://www.kaggle.com/code/themelissoulounias/nba-stat-scrape-and-analysis
 
-7. Liu, I. C. (n.d.). NBA player stats and injured data from ‘13 to ‘23 [Dataset]. Kaggle. https://www.kaggle.com/datasets/icliu30/nba-player-stats-and-injured-data-from-13-to-23
+7. Chiodi, A. (n.d.). NBA injury forecasting [Code notebook]. Kaggle. https://www.kaggle.com/code/anthonychiodi/nba-injury-forecasting
+
+8. Liu, I. C. (n.d.). NBA player stats and injured data from ‘13 to ‘23 [Dataset]. Kaggle. https://www.kaggle.com/datasets/icliu30/nba-player-stats-and-injured-data-from-13-to-23
 
 IV. AI Tools Section
 1. ChatGPT Plus (AI tool) - Assisted in every step of the app’s creation: ideas generation, algorithm benchmarking, prediction, creating the kanban board, coding (with comments), debugging, report creation (including ReadMe file), survey creation, and data analysis.
