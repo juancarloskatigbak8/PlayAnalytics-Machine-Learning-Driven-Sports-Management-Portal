@@ -153,19 +153,21 @@ II. Books
 III. Websites
 1. National Basketball Association. (n.d.). NBA official website. https://www.nba.com
 
-2. Braun, N. (2025). Fantasy Math: Fantasy sports predictions and analytics. Fantasy Math. https://fantasymath.com/
+2. Pro Sports Transactions Archive. (n.d.). Pro Sports Transactions. https://www.prosportstransactions.com/
 
-3. Broni, K. (2020). KenBroTech. YouTube. https://www.youtube.com/@KenBroTech
+3. Braun, N. (2025). Fantasy Math: Fantasy sports predictions and analytics. Fantasy Math. https://fantasymath.com/
 
-4. Gilermo, D. (n.d.). NBA players stats [Dataset]. Kaggle. https://www.kaggle.com/datasets/drgilermo/nba-players-stats/data 
+4. Broni, K. (2020). KenBroTech. YouTube. https://www.youtube.com/@KenBroTech
 
-5. Lauton, L. (n.d.). NBA injury stats (1951-2023) [Dataset]. Kaggle. https://www.kaggle.com/datasets/loganlauton/nba-injury-stats-1951-2023
+5. Gilermo, D. (n.d.). NBA players stats [Dataset]. Kaggle. https://www.kaggle.com/datasets/drgilermo/nba-players-stats/data 
 
-6. Lounias, T. (n.d.). NBA stat scrape and analysis [Kaggle Notebook]. Kaggle. https://www.kaggle.com/code/themelissoulounias/nba-stat-scrape-and-analysis
+6. Lauton, L. (n.d.). NBA injury stats (1951-2023) [Dataset]. Kaggle. https://www.kaggle.com/datasets/loganlauton/nba-injury-stats-1951-2023
 
-7. Chiodi, A. (n.d.). NBA injury forecasting [Code notebook]. Kaggle. https://www.kaggle.com/code/anthonychiodi/nba-injury-forecasting
+7. Lounias, T. (n.d.). NBA stat scrape and analysis [Kaggle Notebook]. Kaggle. https://www.kaggle.com/code/themelissoulounias/nba-stat-scrape-and-analysis
 
-8. Liu, I. C. (n.d.). NBA player stats and injured data from ‘13 to ‘23 [Dataset]. Kaggle. https://www.kaggle.com/datasets/icliu30/nba-player-stats-and-injured-data-from-13-to-23
+8. Chiodi, A. (n.d.). NBA injury forecasting [Code notebook]. Kaggle. https://www.kaggle.com/code/anthonychiodi/nba-injury-forecasting
+
+9. Liu, I. C. (n.d.). NBA player stats and injured data from ‘13 to ‘23 [Dataset]. Kaggle. https://www.kaggle.com/datasets/icliu30/nba-player-stats-and-injured-data-from-13-to-23
 
 IV. AI Tools Section
 1. ChatGPT Plus (AI tool) - Assisted in every step of the app’s creation: ideas generation, algorithm benchmarking, prediction, creating the kanban board, coding (with comments), debugging, report creation (including ReadMe file), survey creation, and data analysis.
