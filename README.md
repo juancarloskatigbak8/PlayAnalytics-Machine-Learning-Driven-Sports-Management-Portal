@@ -120,5 +120,122 @@ Office 365 (productivity suite) – Microsoft Planner was used for kanban-style 
 ## Acknowledgments
 Inspiration: A personal passion for sports + growing interest in AI and data science.
 
-Academic Reference:
-Owen, R., Owen, J. A., & Evans, S. (2024). Artificial intelligence for sport injury prediction. In Dindorf et al. (Eds.), AI in Sports, Movement, and Health. Springer.
+I. Research Journals and Studies
+1. Owen, R., Owen, J. A., & Evans, S. (2024). Artificial intelligence for sport injury prediction. In Artificial Intelligence for Sport Injury Prediction. Springer.
+
+2. Lu, Y., Pareek, A., Lavoie-Gagne, O. Z., Forlenza, E. M., Patel, B. H., Reinholz, A. K., Forsythe, B., & Camp, C. L. (2022). Machine learning for predicting lower extremity muscle strain in National Basketball Association athletes. The Orthopaedic Journal of Sports Medicine, 10(7), 23259671221111742. 
+
+3. Papageorgiou, G., Sarlis, V., & Tjortjis, C. (2024). Evaluating the effectiveness of machine learning models for performance forecasting in basketball: A comparative study. Knowledge and Information Systems, 66, 4333–4375. 
+
+4. Chmait, N., & Westerbeek, H. (2021). Artificial intelligence and machine learning in sport research: An introduction for non-data scientists. Frontiers in Sports and Active Living, 3, Article 682287.
+ 
+5. Dindorf, C., Bartaguiz, E., Gassmann, F., & Fröhlich, M. (2022). Conceptual structure and current trends in artificial intelligence, machine learning, and deep learning research in sports: A bibliometric review. Preprint. 
+
+6. Li, S., & Zhang, W. (2022). Evaluation method of basketball teaching and training effect based on wearable devices. Frontiers in Physics, 10, Article 900169.
+
+7. Yang, X. (2024). Construction of measurement index system of basketball players’ specific physical fitness training based on AI intelligence and neural network. Molecular & Cellular Biomechanics, 21(1), 250. 
+
+8. Georgievski, B., & Vrtagic, S. (2021). Machine learning and the NBA game. Journal of Physical Education and Sport. 
+
+9. Simenz, C. J., Dugan, C. A., & Ebben, W. P. (2005). Strength and conditioning practices of National Basketball Association strength and conditioning coaches. The Journal of Strength and Conditioning Research, 19(3), 495–504.
+
+II. Books
+1. Braun, N. (2023). Learn to code with basketball.
+
+2. Matthes, E. (2023). Phyton crash course 3rd edition: A hands-on, project-based introduction to programming. No Starch Press.
+
+3. Foran, B. (2026). Complete conditioning for basketball: National Basketball Strength & Conditioning Association. Human Kinetics.
+
+4. Gillett, J. & Burgos, B. (2020). Strength Training for Basketball: National Strength and Conditioning Association. Human Kinetics.
+
+III. Websites
+1. Braun, N. (2025). Fantasy Math: Fantasy sports predictions and analytics. Fantasy Math. https://fantasymath.com/
+
+2. Broni, K. (2020). KenBroTech. YouTube. https://www.youtube.com/@KenBroTech
+
+3. Gilermo, D. (n.d.). NBA players stats [Dataset]. Kaggle. https://www.kaggle.com/datasets/drgilermo/nba-players-stats/data 
+
+4. Lauton, L. (n.d.). NBA injury stats (1951-2023) [Dataset]. Kaggle. https://www.kaggle.com/datasets/loganlauton/nba-injury-stats-1951-2023
+
+5. Lounias, T. (n.d.). NBA stat scrape and analysis [Kaggle Notebook]. Kaggle. https://www.kaggle.com/code/themelissoulounias/nba-stat-scrape-and-analysis
+
+6. Chiodi, A. (n.d.). NBA injury forecasting [Code notebook]. Kaggle. https://www.kaggle.com/code/anthonychiodi/nba-injury-forecasting
+
+7. Liu, I. C. (n.d.). NBA player stats and injured data from ‘13 to ‘23 [Dataset]. Kaggle. https://www.kaggle.com/datasets/icliu30/nba-player-stats-and-injured-data-from-13-to-23
+
+IV. AI Tools Section
+1. ChatGPT Plus (AI tool) - Assisted in every step of the app’s creation: ideas generation, algorithm benchmarking, prediction, creating the kanban board, coding (with comments), debugging, report creation (including ReadMe file), survey creation, and data analysis.
+
+V. Technology Stack
+1. Amazon. (2024). Amazon Prime [E-commerce platform]. https://www.amazon.com/prime
+
+2. Bootstrap Team. (2024). Bootstrap (Version 5) [Front-end framework]. https://getbootstrap.com
+
+3. Braun, N. (2024). Fantasy Math [Sports data science platform]. https://www.fantasymath.com
+
+4. Canva. (2024). Canva Pro [Design software]. https://www.canva.com
+
+5. Chart.js Contributors. (2024). Chart.js (Version 4) [JavaScript charting library]. https://www.chartjs.org
+
+6. DataCamp. (2024). DataCamp [Online learning platform]. https://www.datacamp.com
+
+7. Django Software Foundation. (2024). Django (Version 5.2) [Web framework]. https://www.djangoproject.com
+
+6. GitHub. (2024). GitHub [Code hosting platform]. https://github.com
+
+7. Hipp, D. R. (2024). SQLite (Version 3) [Database engine]. https://www.sqlite.org
+
+8. Hunter, J. D. (2007). Matplotlib: A 2D graphics environment. Computing in Science & Engineering, 9(3), 90–95. https://matplotlib.org
+
+9. Microsoft. (2024). Microsoft Office 365 [Productivity suite]. https://www.microsoft.com/microsoft-365
+
+10. Microsoft. (2024). Microsoft Forms [Survey tool]. https://forms.office.com
+
+11. Microsoft. (2024). Microsoft Outlook [Email client]. https://outlook.office.com
+
+12. Microsoft. (2024). Microsoft Excel [Spreadsheet software]. https://www.microsoft.com/microsoft-365/excel
+
+13. NumPy Developers. (2024). NumPy (Version 2) [Python library]. https://numpy.org
+
+14. OpenAI. (2024). ChatGPT (GPT-4) [Large language model]. https://chat.openai.com/
+
+15. Pandas Development Team. (2024). Pandas (Version 2) [Python library]. https://pandas.pydata.org
+
+16. Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., ... & Duchesnay, É. (2011). Scikit-learn: Machine learning in Python. Journal of Machine Learning Research, 12, 2825–2830. https://scikit-learn.org
+
+17. Python Software Foundation. (2024). Python (Version 3.12) [Programming language]. https://www.python.org
+
+18. Tieleman, T. (2024). Joblib (Version 1.4) [Model serialization tool]. https://joblib.readthedocs.io
+
+19. Willison, A. (2024). Pillow (Version 11.1) [Image processing library]. https://python-pillow.org
+
+20. Udemy. (2024). Udemy [Online learning platform]. https://www.udemy.com
+
+21.YouTube. (2024). YouTube [Video sharing platform]. https://www.youtube.com
+
+VI. Instructor
+1. Nikhil Bhardwaj’s CSIS4260 Special Topics in Data Analytics - he made the researcher do an assignment which required him to use benchmarks and dashboards to compare the algorithms that were used.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
