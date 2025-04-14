@@ -151,9 +151,11 @@ II. Books
 4. Gillett, J. & Burgos, B. (2020). Strength Training for Basketball: National Strength and Conditioning Association. Human Kinetics.
 
 III. Websites
-1. National Basketball Association. (n.d.). NBA official website. https://www.nba.com
+1. National Basketball Association. (n.d.). NBA official website. https://www.nba.com 
+(Note: NBA player performance statistics and profile pictures from two famous players, LeBron James and Luka Dončić, from the current Los Angeles Lakers were used for the app)
 
-2. Pro Sports Transactions Archive. (n.d.). Pro Sports Transactions. https://www.prosportstransactions.com/
+2. Pro Sports Transactions Archive. (n.d.). Pro Sports Transactions. https://www.prosportstransactions.com/ 
+(Note: NBA player injury statistics were obtained here and used for the app)
 
 3. Braun, N. (2025). Fantasy Math: Fantasy sports predictions and analytics. Fantasy Math. https://fantasymath.com/
 
