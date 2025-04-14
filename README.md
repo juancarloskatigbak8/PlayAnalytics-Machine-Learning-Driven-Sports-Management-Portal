@@ -222,7 +222,9 @@ V. Technology Stack
 
 20. Udemy. (2024). Udemy [Online learning platform]. https://www.udemy.com
 
-21.YouTube. (2024). YouTube [Video sharing platform]. https://www.youtube.com
+21. YouTube. (2024). YouTube [Video sharing platform]. https://www.youtube.com
+    
+22. Jupyter Project. (2015). Jupyter Notebook [Interactive computing platform]. https://jupyter.org
 
 VI. Instructor
 1. Nikhil Bhardwaj’s CSIS4260 Special Topics in Data Analytics - he made the researcher do an assignment which required him to use benchmarks and dashboards to compare the algorithms that were used.
