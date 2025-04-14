@@ -182,6 +182,7 @@ V. Technology Stack
 3. Braun, N. (2024). Fantasy Math [Sports data science platform]. https://www.fantasymath.com
 
 4. Canva. (2024). Canva Pro [Design software]. https://www.canva.com
+(Note: Photos of basketball players shown in this final report including the previous proposal, progress and midterms reports that were submitted were obtained and used from Canva)
 
 5. Chart.js Contributors. (2024). Chart.js (Version 4) [JavaScript charting library]. https://www.chartjs.org
 
