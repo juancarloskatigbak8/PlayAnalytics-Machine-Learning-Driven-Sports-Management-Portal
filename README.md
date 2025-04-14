@@ -115,6 +115,8 @@ YouTube (video sharing platform) - for teaching me how to integrate Machine Lear
 
 Office 365 (productivity suite) – Microsoft Planner was used for kanban-style project tracking; Microsoft Excel for cleaning/preparing CSV datasets and daily work logs; Microsoft Outlook for advisor communication and milestone updates; Microsoft Forms for creating/distributing user feedback survey to gather insights about the app.
 
+Jupyter Notebook (interactive data science and scientific computing) - used for machine learning model training, data preprocessing, algorithm benchmarking, and visual data analysis for the app.
+
 ## Author
 
 * **Juan Carlos Katigbak** - *Initial work to Final work* - (https://github.com/juancarloskatigbak8)
