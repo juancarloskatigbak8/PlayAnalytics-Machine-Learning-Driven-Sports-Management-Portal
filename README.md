@@ -152,7 +152,7 @@ II. Books
 
 III. Websites
 1. National Basketball Association. (n.d.). NBA official website. https://www.nba.com 
-(Note: NBA player performance statistics and profile pictures from two famous players, LeBron James and Luka Dončić, from the current Los Angeles Lakers were used for the app)
+(Note: NBA player performance statistics and profile pictures from two famous players, LeBron James and Luka Dončić, from the current Los Angeles Lakers were obtained here and used for the app)
 
 2. Pro Sports Transactions Archive. (n.d.). Pro Sports Transactions. https://www.prosportstransactions.com/ 
 (Note: NBA player injury statistics were obtained here and used for the app)
