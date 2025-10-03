@@ -1,7 +1,7 @@
 # Project Title
 
-PlayAnalytics, an AI-Driven Sports Management Portal:
-presented by Juan Carlos Katigbak 300366535 to Padmapriya Arasanipalai Kandhadai CSIS4495 Applied Research Project Section 002
+PlayAnalytics: Machine Learning-Driven Sports Management Portal
+
 
 ## About the Project
 
@@ -76,8 +76,6 @@ Note: Keep adding player data to enrich the dashboard insights and track trends.
 
 ## Technology Stack
 
-1. Technology Used in the App
-
 Django - Web framework for backend development
 
 Bootstrap 5, Chart.js - Frontend UI, styling, and rendering interactive charts dynamically
@@ -94,28 +92,6 @@ Joblib - ML model serialization
 
 Pillow - Image upload handling
 
-
-2. Technology Sources Used to be able to make the App
-
-ChatGPT Plus (AI tool) - Assisted in every step of the app’s creation: ideas generation, algorithm benchmarking, prediction, creating the kanban board, coding (with comments), debugging, report creation (including ReadMe file), survey creation, and data analysis.
-
-Canva Pro (digital branding) - Used to design professional-looking progress reports, the PlayAnalytics logo, and the final presentation deck
-
-Amazon Prime (e-commerce) – Enabled access to key physical resources like Python Crash Course (3rd ed.) that supported app functionality and planning
-
-Fantasy Math (sports data science tool) – Served as a source of inspiration for basketball data visualizations and predictive analysis logic, especially during the prototyping and midterm phase
-
-DataCamp (e-learning) – Provided structured online courses for learning foundational data analytics and machine learning concepts
-
-Udemy (e-learning) – Supplemented DataCamp by offering additional practical tutorials and project-based learning for data science
-
-GitHub (online repository for IT portfolios) – Used as the centralized version-controlled repository for the PlayAnalytics app source code and documentation submission.
-
-YouTube (video sharing platform) - for teaching me how to integrate Machine Learning data visualization with Django especially from the channel KenBroTech.
-
-Office 365 (productivity suite) – Microsoft Planner was used for kanban-style project tracking; Microsoft Excel for cleaning/preparing CSV datasets and daily work logs; Microsoft Outlook for advisor communication and milestone updates; Microsoft Forms for creating/distributing user feedback survey to gather insights about the app.
-
-Jupyter Notebook (interactive data science and scientific computing) - used for machine learning model training, data preprocessing, algorithm benchmarking, and visual data analysis for the app.
 
 ## Author
 
@@ -173,61 +149,7 @@ III. Websites
 
 9. Liu, I. C. (n.d.). NBA player stats and injured data from ‘13 to ‘23 [Dataset]. Kaggle. https://www.kaggle.com/datasets/icliu30/nba-player-stats-and-injured-data-from-13-to-23
 
-IV. AI Tools Section
-1. ChatGPT Plus (AI tool) - Assisted in every step of the app’s creation: ideas generation, algorithm benchmarking, prediction, creating the kanban board, coding (with comments), debugging, report creation (including ReadMe file), survey creation, and data analysis.
 
-V. Technology Stack
-1. Amazon. (2024). Amazon Prime [E-commerce platform]. https://www.amazon.com/prime
-
-2. Bootstrap Team. (2024). Bootstrap (Version 5) [Front-end framework]. https://getbootstrap.com
-
-3. Braun, N. (2024). Fantasy Math [Sports data science platform]. https://www.fantasymath.com
-
-4. Canva. (2024). Canva Pro [Design software]. https://www.canva.com
-(Note: Photos of basketball players shown in this final report including the previous proposal, progress and midterms reports that were submitted were obtained and used from Canva)
-
-5. Chart.js Contributors. (2024). Chart.js (Version 4) [JavaScript charting library]. https://www.chartjs.org
-
-6. DataCamp. (2024). DataCamp [Online learning platform]. https://www.datacamp.com
-
-7. Django Software Foundation. (2024). Django (Version 5.2) [Web framework]. https://www.djangoproject.com
-
-6. GitHub. (2024). GitHub [Code hosting platform]. https://github.com
-
-7. Hipp, D. R. (2024). SQLite (Version 3) [Database engine]. https://www.sqlite.org
-
-8. Hunter, J. D. (2007). Matplotlib: A 2D graphics environment. Computing in Science & Engineering, 9(3), 90–95. https://matplotlib.org
-
-9. Microsoft. (2024). Microsoft Office 365 [Productivity suite]. https://www.microsoft.com/microsoft-365
-
-10. Microsoft. (2024). Microsoft Forms [Survey tool]. https://forms.office.com
-
-11. Microsoft. (2024). Microsoft Outlook [Email client]. https://outlook.office.com
-
-12. Microsoft. (2024). Microsoft Excel [Spreadsheet software]. https://www.microsoft.com/microsoft-365/excel
-
-13. NumPy Developers. (2024). NumPy (Version 2) [Python library]. https://numpy.org
-
-14. OpenAI. (2024). ChatGPT (GPT-4) [Large language model]. https://chat.openai.com/
-
-15. Pandas Development Team. (2024). Pandas (Version 2) [Python library]. https://pandas.pydata.org
-
-16. Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., ... & Duchesnay, É. (2011). Scikit-learn: Machine learning in Python. Journal of Machine Learning Research, 12, 2825–2830. https://scikit-learn.org
-
-17. Python Software Foundation. (2024). Python (Version 3.12) [Programming language]. https://www.python.org
-
-18. Tieleman, T. (2024). Joblib (Version 1.4) [Model serialization tool]. https://joblib.readthedocs.io
-
-19. Willison, A. (2024). Pillow (Version 11.1) [Image processing library]. https://python-pillow.org
-
-20. Udemy. (2024). Udemy [Online learning platform]. https://www.udemy.com
-
-21. YouTube. (2024). YouTube [Video sharing platform]. https://www.youtube.com
-    
-22. Jupyter Project. (2015). Jupyter Notebook [Interactive computing platform]. https://jupyter.org
-
-VI. Instructor
-1. Nikhil Bhardwaj’s CSIS4260 Special Topics in Data Analytics - he made the researcher do an assignment which required him to use benchmarks and dashboards to compare the algorithms that were used.
 
 
 
